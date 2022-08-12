@@ -1,0 +1,2 @@
+# BaseAdapterActivity
+ Base adapter
